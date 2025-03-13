@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c3f71cf0-5a69-4f82-a22f-fbb1876cd933)# Ansible_config_for_ping_eltex
+# Ansible_config_for_ping_eltex
 apt-get install ansible sshpass
 Уберите проверку публичного ssh ключа ansible, для этого раскомментируйте в файле /etc/ansible/ansible.cfg строку: //обязательно везде на машинах включите ssdd
 
